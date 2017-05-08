@@ -3,6 +3,7 @@ const product = (x)=>{
         return y * x;
     }
 }
+console.log("hi 安安");
 /* 更短的寫法
 const product = (x)=>{
     return y => return y * x;
